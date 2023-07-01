@@ -5,5 +5,7 @@ To sort a set of tweets from MongoDB on the basis of user IDs and evaluate how r
 of tweets, Merge Sort, Bucket Sort, and TF-IDF algorithms were implemented using Map-Reduce.
 
 The primary goal of the project is to:
+
 • design, implement and query a NoSQL database.
+
 • implement MapReduce techniques for the processing of Big Data on top of Hadoop (i.e. an open-source version of MapReduce written in Java).
