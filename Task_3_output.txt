@@ -1,0 +1,66 @@
+[Info] Loading Data
+[Info] Loading Data completed
+"Adelaide"	371
+"Albury"	1
+"Angaston"	2
+"Bondi"	1
+"Brighton"	2
+"Brisbane"	966
+"Brooklyn"	2
+"Cairns"	1
+"Canberra"	125
+"Clayton"	1
+"Cleveland"	2
+"Coffs Harbour"	1
+"Darlington"	1
+"Darwin"	43
+"Deception Bay"	1
+"Dubbo"	1
+"Geraldton"	1
+"Gold Coast"	18
+"Hamilton"	1
+"Hobart"	55
+"Hornsby"	1
+"Howe"	2
+"Kingaroy"	1
+"Lara"	2
+"Launceston"	1
+"Lennox Head"	1
+"Liverpool"	2
+"Maryland"	3
+"Melbourne"	1667
+"Melville"	2
+"Mill Park"	6
+"Mount Pleasant"	1
+"Newcastle"	11
+"North Melbourne"	1
+"Orange"	2
+"Palm Beach"	1
+"Perth"	374
+"Port Macquarie"	1
+"Port Melbourne"	1
+"Portland"	4
+"Reservoir"	1
+"Richmond"	2
+"Seven Hills"	1
+"South Melbourne"	1
+"Springfield"	1
+"St Albans"	1
+"Sydney"	2182
+"Tamworth"	1
+"Tarneit"	1
+"Toronto"	10
+"Virginia"	3
+"Wellington"	11
+"West End"	1
+"Wollongong"	1
+"unknown city - Australian Capital Territory"	8
+"unknown city - New South Wales"	246
+"unknown city - Northern Territory"	1
+"unknown city - Queensland"	160
+"unknown city - South Australia"	56
+"unknown city - Tasmania"	17
+"unknown city - Victoria"	290
+"unknown city - Western Australia"	158
+"unknown city - unknown state"	1141
+null	2026
